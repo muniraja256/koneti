@@ -1,1 +1,3 @@
-print("This is muniraja koneti from mallemala")
+def add(x,y):
+    print(x+y)
+
